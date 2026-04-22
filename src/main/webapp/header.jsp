@@ -11,6 +11,7 @@
                 <a href="characters.jsp?universe=All">All Heroes</a>
                 <a href="characters.jsp?universe=Marvel">Marvel Universe</a>
                 <a href="characters.jsp?universe=DC">DC Universe</a>
+                <a href="characters.jsp?universe=Anime">Anime Universe</a>
             </div>
         </div>
         <a href="about.jsp">About</a>

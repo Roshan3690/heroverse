@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HeroVerse - About</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=7">
 </head>
 <body>
 
@@ -15,7 +15,7 @@
         <h1>About HeroVerse</h1>
         <div class="card about-card">
             <div class="card-content">
-                <p>HeroVerse is the ultimate database for superhero fans. We provide detailed information about your favorite characters from various universes, including Marvel and DC.</p>
+                <p>HeroVerse is the ultimate database for superhero and anime fans. We provide detailed information about your favorite characters from various universes, including Marvel, DC, and popular Anime series like Dragon Ball Z, Naruto, One Piece, and more.</p>
                 <p>Our mission is to organize the multiverse, one character at a time.</p>
                 <p>Developed using JSP, MySQL, and modern CSS.</p>
             </div>
